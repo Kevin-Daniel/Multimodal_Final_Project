@@ -5,10 +5,5 @@ https://www.kaggle.com/datasets/rohanrao/xeno-canto-bird-recordings-extended-n-z
 
 2. Unzip
 3. Go into folders A-M and N-Z for each
-4. Copy all the species folders into a seperate directory called audio
-   ./audio/
-      aldfly/
-      ameavo/
-      ...
-      
+4. Copy all the species folders in these two folders into a seperate directory called audio
 5. Modify absolute paths in audio.py accordingly to your machine.
